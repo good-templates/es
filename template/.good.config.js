@@ -1,5 +1,5 @@
 /**
- * ELF 配置文件
+ * GOOD 配置文件
  *
  */
 module.exports = {
